@@ -45,3 +45,5 @@ video.eurosport.fr##.wtw-container
 
 ! 04/11/2018 à 15:35:57 http://www.jeuxvideo.com/forums/42-51-58086899-1-0-1-0-je-demonte-les-arguments-des-go-muscu.htm
 ||static.jvc.gg/1.81.0/img/footer/wtbx.png$image
+
+www.jeuxvideo.com## [href^="https://www.wootbox.fr/"]
