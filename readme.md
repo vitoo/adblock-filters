@@ -1,8 +1,8 @@
 
+https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 
-- [Subscribe to Fanboy's Cookie Monster](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fsecure.fanboy.co.nz%2Ffanboy-cookiemonster.txt&title=Anti-Cookie%20List)
+https://www.i-dont-care-about-cookies.eu/abp/
 
-- [Subscribe to I Don't Care About Cookies](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fwww.i-dont-care-about-cookies.eu%2Fabp%2F&title=I%20don%27t%20care%20about%20cookies)
+https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 
-- [Subscribe to I Don't Care About Cookies](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/vitoo/adblock-filters/master/filters.txt)
-
+https://raw.githubusercontent.com/vitoo/adblock-filters/master/filters.txt
