@@ -1,0 +1,47 @@
+! 08/10/2017 à 20:21:18 http://www.jeuxvideo.com/forums/42-51-53439844-1-0-1-0-le-plus-gros-site-pedo-du-darkweb-etait-controle-par-la-police.htm
+www.jeuxvideo.com##.conteneur-messages-pagi > a[href^="http://www.wootbox.fr/"]
+
+! 25/03/2018 à 11:44:15 https://www.deezer.com/fr/playlist/56339060
+www.deezer.com##.abp-banner
+
+! 12/05/2018 à 19:34:47 http://www.jeuxvideo.com/forums/0-51-0-1-0-1-0-blabla-18-25-ans.htm
+www.jeuxvideo.com##.ads-middle
+
+! 29/05/2018 à 21:29:38 http://www.jeuxvideo.com/cogis/forums/message/950182293
+||image.jeuxvideo.com/medias-sm/152466/1524664347-footer-jvcom-cartoon.jpg$image
+
+! 29/05/2018 à 21:29:46 http://www.jeuxvideo.com/cogis/forums/message/950182293
+www.jeuxvideo.com##[href^="http://www.wootbox.fr/"] > span:nth-of-type(2)
+
+! 29/05/2018 à 21:29:50 http://www.jeuxvideo.com/cogis/forums/message/950182293
+www.jeuxvideo.com###forum-main-col > [href^="http://www.wootbox.fr/"] > span:nth-of-type(1)
+
+! 16/06/2018 à 13:16:42 https://www.scorecast.fr/standings.php?iid=09965da76538363ff2f273729f42c8d1
+www.scorecast.fr##.ad-blocked.ad
+
+! 25/07/2018 à 22:40:43 http://www.jeuxvideo.com/forums/1-51-19299259-1-0-1-0-difference-velo-course-vtt.htm
+||static.jvc.gg/1.74.0/img/footer/wtbx.png$image
+
+! 25/07/2018 à 22:49:16 http://www.jeuxvideo.com/forums/42-46-57058348-1-0-1-0-un-velo-de-route-bas-de-gamme-ca-suffit-en-amateur.htm#post_932129764
+www.jeuxvideo.com##[href^="https://www.wootbox.fr/"] > span:nth-of-type(2)
+
+! 27/07/2018 à 14:37:21 http://www.jeuxvideo.com/forums/42-46-57068730-1-0-1-0-comment-placer-une-attaque.htm
+www.jeuxvideo.com##[href^="https://www.wootbox.fr/"] > span:nth-of-type(1)
+
+! 18/08/2018 à 19:21:50 https://ww4.yggtorrent.is/torrent/filmvid%C3%A9o/film/291783-dans+la+brume+2018+french+1080p+bluray+hdlight+x264+ac3+5+1-blacka
+ww4.yggtorrent.is##.vpn
+
+! 24/08/2018 à 07:37:58 https://wamiz.com/chats/europeen-30/forum/comment-eduquer-son-chat-a-ne-pas-gratter-les-portes-12841.html
+wamiz.com###adblocker
+
+! 26/09/2018 à 20:02:54 https://www.eurosport.fr/cyclisme/mondiaux-sur-route/standing.shtml
+www.eurosport.fr##.wtw-container
+
+! 27/09/2018 à 21:35:15 http://www.jeuxvideo.com/forums/42-46-57756367-1-0-1-0-respiration-nasale-pour-de-meilleur-performance.htm#post_950183791
+||image.jeuxvideo.com/medias-sm/153805/1538049977-footer-jvcom-hp-3.jpg$image
+
+! 28/09/2018 à 18:33:58 https://video.eurosport.fr/cyclisme/video-remco-evenepoel-l-ex-footeux-qui-va-affoler-le-cyclisme-mondial_vid1110639/video.shtml
+video.eurosport.fr##.wtw-container
+
+! 04/11/2018 à 15:35:57 http://www.jeuxvideo.com/forums/42-51-58086899-1-0-1-0-je-demonte-les-arguments-des-go-muscu.htm
+||static.jvc.gg/1.81.0/img/footer/wtbx.png$image
